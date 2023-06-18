@@ -1,4 +1,4 @@
-package com.promineotech.pet.store.entity;
+package pet.store.entity;
 
 import java.util.HashSet;
 import java.util.Set;

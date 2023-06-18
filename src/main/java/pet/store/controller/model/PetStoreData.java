@@ -1,14 +1,13 @@
-package com.promineotech.pet.store.controller.model;
+package pet.store.controller.model;
 
 import java.util.HashSet;
 import java.util.Set;
 
-import com.promineotech.pet.store.entity.Customer;
-import com.promineotech.pet.store.entity.Employee;
-import com.promineotech.pet.store.entity.PetStore;
-
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import pet.store.entity.Customer;
+import pet.store.entity.Employee;
+import pet.store.entity.PetStore;
 
 @Data
 @NoArgsConstructor

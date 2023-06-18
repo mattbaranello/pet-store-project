@@ -1,4 +1,4 @@
-package com.promineotech.pet.store.controller.error;
+package pet.store.controller.error;
 
 import java.util.HashMap;
 import java.util.Map;
